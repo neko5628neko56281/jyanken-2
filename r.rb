@@ -136,3 +136,8 @@ loop do
 end
 
 puts 'じゃんけんを終了します。'
+
+
+
+
+aaaa
