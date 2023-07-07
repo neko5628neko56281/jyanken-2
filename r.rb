@@ -141,3 +141,4 @@ puts 'じゃんけんを終了します。'
 
 
 aaaa
+jhuhuhuh
